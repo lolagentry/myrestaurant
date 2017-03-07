@@ -1,0 +1,54 @@
+body{
+  padding-bottom: 50px;
+  margin-left: 10px
+  margin-right: 10px;
+}
+
+#container{
+  position: relative;
+}
+
+#navlist li
+{
+display: inline-block;
+padding-top: 15px;
+padding-left: 30px;
+}
+
+#header{
+  height: 50px;
+}
+
+#abouttitle {
+font-family: 'times', sans-serif;
+font-size: 60px;
+padding-left: 30px;
+}
+
+#about {
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 90px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+/*--------------------------------*/
+h1{
+  font-family: 'times', sans-serif;
+  font-size: 60px;
+  text-align: left;
+}
+
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.0em;
+}
